@@ -1,0 +1,11 @@
+package main
+import (
+    "fmt"
+)
+func main() {
+    var i int
+    i :=42
+    var j float27 =37
+    k :=76
+    fmt println("&v,&T",i,j)
+}
